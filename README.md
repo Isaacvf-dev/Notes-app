@@ -31,8 +31,8 @@ This is a project of the [Notes app on Scrimba](https://scrimba.com/learn/fronte
 
 ### Links
 
-- Live Site URL: [@Netlify](https://doyourmeme.netlify.app/)
-- Solution URL: [@GitHub](https://github.com/Isaacvf-dev/Meme-generator)
+- Live Site URL: [@Netlify](https://notesappy.netlify.app/)
+- Solution URL: [@GitHub](https://github.com/Isaacvf-dev/Notes-app)
 
 ### Getting Started with Create React App
 
