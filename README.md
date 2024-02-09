@@ -1,4 +1,4 @@
-# Scrimba - Meme generator project
+# Scrimba - Notes App project
 
 This is a project of the [Notes app on Scrimba](https://scrimba.com/learn/frontend). Scrimba helps you improve your coding skills by building realistic projects.
 
